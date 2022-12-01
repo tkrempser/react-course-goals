@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-course-goals/static/css/main.f3229784.css",
+    "main.js": "/react-course-goals/static/js/main.afb5c38a.js",
+    "index.html": "/react-course-goals/index.html",
+    "main.f3229784.css.map": "/react-course-goals/static/css/main.f3229784.css.map",
+    "main.afb5c38a.js.map": "/react-course-goals/static/js/main.afb5c38a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3229784.css",
+    "static/js/main.afb5c38a.js"
+  ]
+}
